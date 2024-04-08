@@ -1,9 +1,9 @@
 package com.club.eliteclub.model;
 
-public class Club {
+public class ClubDTO {
 	private final String clubName;
 	
-	public Club(String clubName) {
+	public ClubDTO(String clubName) {
 		this.clubName = clubName;
 	}
 	
